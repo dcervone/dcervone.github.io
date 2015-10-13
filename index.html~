@@ -1,0 +1,22 @@
+---
+layout: default
+title: Dan Cervone
+---
+
+<div class="blurb">
+<table>
+<tr height="45%">
+<td width="60%">
+</td>
+<td rowspan="2" width="40%"><img src="/images/me_bw.jpg" width=400 height=507 align="right"></td>
+</tr>
+<tr height="55%">
+<td>
+<h1>Dan Cervone</h1>
+<p> I'm a <a href="http://cds.nyu.edu/mooresloan/">Moore-Sloan Data Science Fellow</a> at New York University. In 2015 I completed my PhD in <a title="Harvard Statistics Department" href="http://statistics.fas.harvard.edu/" target="_blank">Statistics at Harvard University</a>. Prior to this, I earned a BA in Mathematics and Statistics at the University of Chicago. I'm interested in spatial and spatiotemporal data, hierarchical models, computational statistics, and enjoy working on applied problems in areas such as sports, medicine, and environmental science. Previously, I interned as a statistician with the Quantitative Marketing group at Google and worked as a research assistant at the UChicago Booth School of Business.</p>
+</td>
+</table>
+
+
+</div><!-- /.blurb -->
+
