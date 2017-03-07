@@ -1,0 +1,131 @@
+body {
+    margin: 20px auto;
+    width: 90%;
+    font-family: "Yantramanav", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    color: #131337;
+}
+    
+.center {
+    margin: 20px auto;
+    width: 60%;
+    border: none;
+    padding: 0px;
+    font-size: 1.5em;
+    line-height: 1.4em;
+}
+nav ul, footer ul {
+    text-align: left;
+    font-family: "Yantramanav", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    padding: 0px;
+    list-style: none;
+    font-size: 21pt;
+    font-weight: 300;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 15px;
+    margin-left: 0px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    background-color: #EBEBEB;
+}
+h1 {
+    font-size: 3em;
+    font-weight: 300;
+}
+h2 {
+    font-size: 2.5em;
+    font-weight: 300;
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+/* publication list */
+.pub {
+  font-size:18px;
+}
+.pub h3 {
+  font-size:18px;
+  width: 100%;
+  line-height: 120%;
+  font-weight: bold;
+}
+.pub ul {
+  list-style-type: none;
+}
+
+.pub li img {
+  float: left;
+  margin: 15px 15px 15px 15px;
+}
+ 
+.pub li p {
+  text-align: left;
+  line-height: 1em;
+}
+ 
+.pub li {
+  padding: 0px;
+  overflow: auto;
+}
+ 
+.pub li:hover {
+  background: #ffffff;
+}
+
+.pub blockquote {
+  font-size:14px;
+  font-style:none;
+}
+
+/* image to the left of pub info */
+.pub .pub-image {
+  float: left;
+  width: 15%;
+}
+
+div .pub-info {
+  float:left;
+  width: 78%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  max-height: 180px;
+  -webkit-transition: max-height .6s linear;
+  -moz-transition: max-height .6s linear;
+  transition: max-height .6s linear;
+}
+
+div .pub-full {
+  float:left;
+  width: 78%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  max-height: 500px;
+}
+
+.pub-info blockquote {
+  text-align: justify;
+}
